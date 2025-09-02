@@ -34,7 +34,7 @@ cd backend
 ```bash
 python -m venv env
 # On Windows
-.\env\Scripts\activate
+.\venv\Scripts\activate
 # On macOS/Linux
 source env/bin/activate
 ```
